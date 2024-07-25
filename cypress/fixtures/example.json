@@ -1,0 +1,21 @@
+{
+  "firstName": "Mykola",
+  "lastName": "Konotop",
+  "fullName": "Mykola Konotop",
+  "address": "9260 Towne Center Dr #25",
+  "state": "CA",
+  "city": "San Diego",
+  "zip": "92121",
+  "phone": "6192733425",
+  "vehicleVin": "ZFA32300003197162",
+  "vehicleMake": "Fiat",
+  "vehicleModel": "Linea",
+  "vehicleYear": "2012",
+  "vehicleColor": "Red",
+  "vehicleEngine": "Diesel",
+  "bodyType": "Sedan",
+  "transmission": "Manual",
+  "miles": "123456",
+  "body": "This is a test inspection!",
+  "tireSize": "1857515"
+}
